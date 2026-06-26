@@ -297,7 +297,7 @@ Architected and built multiple production-spec systems from constitution to code
 <br/><br/>
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=zeeshanjamal91&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub trophies"/>
 
 <br/><br/>
 
