@@ -286,13 +286,13 @@ Architected and built multiple production-spec systems from constitution to code
 
 <!-- TODO: Replace YOUR_GITHUB_USERNAME in every stats URL below -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=1e3a5f&title_color=38bdf8&icon_color=0ea5e9&text_color=e2e8f0&hide_border=false&count_private=true&include_all_commits=true" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zeeshanjamal91&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=1e3a5f&title_color=38bdf8&icon_color=0ea5e9&text_color=e2e8f0&hide_border=false&count_private=true&include_all_commits=true" height="165" alt="GitHub stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=1e3a5f&title_color=38bdf8&text_color=e2e8f0&hide_border=false&langs_count=8" height="165" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanjamal91&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=1e3a5f&title_color=38bdf8&text_color=e2e8f0&hide_border=false&langs_count=8" height="165" alt="Top languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&background=0d1117&border=1e3a5f&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8&sideLabels=e2e8f0&dates=94a3b8" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=zeeshanjamal91&theme=tokyonight&background=0d1117&border=1e3a5f&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8&sideLabels=e2e8f0&dates=94a3b8" alt="GitHub streak"/>
 
 <br/><br/>
 
