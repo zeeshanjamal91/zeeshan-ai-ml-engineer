@@ -40,7 +40,7 @@
 
 <!-- ── PROFILE VIEWS COUNTER ─────────────────────────────────── -->
 <!-- TODO: Replace YOUR_GITHUB_USERNAME everywhere in this file -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=0ea5e9&label=profile+views" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=zeeshanjamal91&style=flat-square&color=0ea5e9&label=profile+views" alt="profile views"/>
 
 </div>
 
